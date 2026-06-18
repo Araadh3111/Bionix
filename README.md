@@ -30,7 +30,7 @@ Bionix/
 
 ├── Code/                 # Control software for the Raspberry Pi Pico
 
-├── BOM.xlsx              # Complete Bill of Materials and cost breakdown
+├── BOM.csv              # Complete Bill of Materials and cost breakdown
 
 └── README.md             # Project documentation (You are here)
 
