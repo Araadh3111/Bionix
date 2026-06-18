@@ -21,15 +21,20 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 
 ## File Structure
 
-\`\`\`text
+
 Bionix/
-├── .git/                 # Git repository data
+
 ├── CAD/                  # Fusion 360 models, assemblies, and STL files for 3D printing
+
 ├── circuit design/       # KiCad schematics (Peak.kicad_sch) for power and signal routing
+
 ├── Code/                 # Control software for the Raspberry Pi Pico
+
 ├── BOM.xlsx              # Complete Bill of Materials and cost breakdown
+
 └── README.md             # Project documentation (You are here)
-\`\`\`
+
+
 
 ## Hardware Requirements
 * Raspberry Pi Pico (RP2040/RP2350)
