@@ -1,6 +1,6 @@
 Category,Item,Spec,Qty,Unit,Notes,Est_Unit_Cost_USD,Est_Line_Cost_USD
 Electronics,Raspberry Pi,RP2040/RP2350,1,pc,Main controller; matches Peak.kicad_sch pin map,$4.23,$4.23
-Electronics,Micro servo,SG90 / MG90S,5,pc,One per finger; thumb/index/middle/ring/pinky,$1.59,$7.93
+Electronics,servo,MG996R,5,pc,One per finger; thumb/index/middle/ring/pinky,$1.59,$7.93
 Electronics,MyoWare,MyoWare 2.0,1,pc,EMG signal to GPIO26/ADC0,$19.04,$19.04
 Electronics,EMG electrodes,Disposable snap,1,pack,Consumable; 3 per session,$3.17,$3.17
 Electronics,Buck converter,5V output,1,pc,Powers servos from battery; MUST be >=3A,$1.27,$1.27
