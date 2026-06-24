@@ -1,21 +1,6 @@
-Category,Item,Spec,Qty,Unit,Notes,Est_Unit_Cost_USD,Est_Line_Cost_USD
-Electronics,Raspberry Pi,RP2040/RP2350,1,pc,Main controller; matches Peak.kicad_sch pin map,$4.23,$4.23
-Electronics,servo,MG996R,5,pc,One per finger; thumb/index/middle/ring/pinky,$1.59,$7.93
-Electronics,MyoWare,MyoWare 2.0,1,pc,EMG signal to GPIO26/ADC0,$19.04,$19.04
-Electronics,EMG electrodes,Disposable snap,1,pack,Consumable; 3 per session,$3.17,$3.17
-Electronics,Buck converter,5V output,1,pc,Powers servos from battery; MUST be >=3A,$1.27,$1.27
-Electronics,Battery,Li-ion 2S (7.4V),1,pc,Feeds buck converter input,$5.29,$5.29
-Electronics,Capacitor,1000uF 16V,1,pc,Across 5V servo rail to stop brownout,$0.16,$0.16
-Electronics,Dupont jumper,M-M / M-F,1,pack,Servo + sensor wiring,$1.59,$1.59
-Electronics,Perfboard,Half-size,1,pc,Mount Pico + power rail,$0.85,$0.85
-Electronics,Micro USB cable,Data-capable,1,pc,Flash MicroPython to Pico,$1.06,$1.06
-Hardware,Brass rods,2.2mm solid,20,pc,Spectacle-style friction joint pivots; cut to length,$0.03,$0.63
-Hardware,Heat-set inserts,M3 brass,8,pc,If using screws for palm back cover,$0.08,$0.68
-Hardware,Palm cover screws,M3 x 8mm,8,pc,Removable back cover,$0.03,$0.25
-Consumables,Braided line,0.3-0.5mm,1,spool,Pull cable / flexor tendon; NO stretch,$2.64,$2.64
-Consumables,Elastic cord,~1mm shock cord,1,m,Return / extensor; must stretch,$0.53,$0.53
-Filament,PLA filament,Black 1.75mm,1,kg,Fingers (two-tone look),$9.52,$9.52
-Filament,PLA filament,White 1.75mm,1,kg,Palm,$9.52,$9.52
-Tools,2mm drill bit,HSS,1,pc,Clean out pin holes if they print tight,$0.42,$0.42
-Tools,Small Phillips,#0 / #1,1,pc,For M2 screws,$0.85,$0.85
-,,,,,TOTAL_APPROX_USD,,$69.63
+Item Description,Qty,Unit Cost (USD),Total Cost (USD)
+Robocraze EMG Muscle Sensor Module Kit,1,24.50,24.50
+Robocraze MG996R High-Torque Digital Servos,5,5.50,27.50
+Enakshi 5V/6V 7A UBEC Voltage Regulator,1,11.75,11.75
+Raspberry Pi Pico H,1,10.00,10.00
+eSUN PLA+ 1.75mm 3D Printing Filament (1kg),1,40.00,40.00
