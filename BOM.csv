@@ -1,22 +1,7 @@
-Category,Item,Spec,Qty,Unit,Notes,Est_Unit_Cost_USD,Est_Line_Cost_USD
-Electronics,Raspberry Pi Pico,RP2040 Board,1,pc,Main controller logic,$4.23,$4.23
-Electronics,Standard Servo,MG996R (High Torque),5,pc,Massive torque upgrade; mount on forearm,$4.50,$22.50
-Electronics,Muscle Sensor,MyoWare 2.0,1,pc,EMG signal to GPIO26/ADC0,$19.04,$19.04
-Electronics,EMG Electrodes,Disposable Snap Gel,1,pk,Consumable; 3 per session,$3.17,$3.17
-Electronics,Power Step-Down,10A or 15A UBEC,1,pc,CRITICAL: Replaces 3A buck to handle 12A stall current,$10.50,$10.50
-Electronics,Battery,LiPo 2S (7.4V),1,pc,High discharge rating required for 5x MG996R,$9.50,$9.50
-Electronics,Capacitor,1000uF 16V,1,pc,Across 5V servo rail to stop brownouts,$0.16,$0.16
-Electronics,Power Wire,18 AWG Silicon,1,m,CRITICAL: Use for servo power rail (Duponts will melt),$2.00,$2.00
-Electronics,Logic Wiring,Dupont M-M / M-F,1,pk,For low-current sensor and PWM signals,$1.59,$1.59
-Electronics,Prototype Board,Half-Size Perfboard,1,pc,Hardwire the power rails and Pico,$0.85,$0.85
-Hardware,Bowden Tubing,PTFE Tube (2mm ID),2,m,Routes tension lines from gauntlet to palm,$2.00,$4.00
-Hardware,Gauntlet Straps,Velcro hook & loop,1,pk,Secures the servo housing to the forearm,$2.50,$2.50
-Hardware,Brass Rods,2.2mm Solid Dowel,20,pc,Frictionless mechanical hinge pins,$0.03,$0.63
-Hardware,Threaded Inserts,M3 Brass Heat-Set,8,pc,Anchorage for removable palm lid,$0.08,$0.68
-Hardware,Machine Screws,M3 x 8mm Phillips,8,pc,Fastens palm lid,$0.03,$0.25
-Consumables,Tension Cable,High-lb Braided Line,1,spl,Flexor tendons; must withstand 10kg torque,$3.50,$3.50
-Consumables,Elastic Cord,1mm Shock Cord,1,m,Extensor tendons; passive return mechanism,$0.53,$0.53
-Filament,PLA/PETG,Black 1.75mm,1,kg,Fingers and gauntlet housing,$10.50,$10.50
-Filament,PLA/PETG,White 1.75mm,1,kg,Primary palm chassis,$10.50,$10.50
-Tools,Drill Bit,2.2mm HSS,1,pc,Clean out pin holes for perfect friction fit,$0.42,$0.42
-,,,,,TOTAL_ESTIMATE_USD,,$107.05
+Item Description,Qty,Unit Cost (USD),Total Cost (USD)
+"Robocraze EMG Muscle Sensor Module Kit(Includes sensor board, 3-snap cable, and starter electrodes)",1,$24.50,$24.50
+"Robocraze MG996R High-Torque Digital Servos(Metal gear, 180-degree rotation)",5,$5.50,$27.50
+Enakshi 5V/6V 7A UBEC Voltage Regulator(Heavy-duty step-down for servo power rail),1,$11.75,$11.75
+Raspberry Pi Pico H(Main microcontroller with pre-soldered headers),1,$10.00,$10.00
+eSUN PLA+ 1.75mm 3D Printing Filament (1kg)(High-toughness structural plastic),1,$40.00,$40.00
+TOTAL,,,$113.75
