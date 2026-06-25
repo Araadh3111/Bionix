@@ -1,7 +1,6 @@
 Item Description,Qty,Unit Cost (USD),Total Cost (USD)
-"Robocraze EMG Muscle Sensor Module Kit(Includes sensor board, 3-snap cable, and starter electrodes)",1,$24.50,$24.50
-"Robocraze MG996R High-Torque Digital Servos(Metal gear, 180-degree rotation)",5,$5.50,$27.50
-Enakshi 5V/6V 7A UBEC Voltage Regulator(Heavy-duty step-down for servo power rail),1,$11.75,$11.75
-Raspberry Pi Pico H(Main microcontroller with pre-soldered headers),1,$10.00,$10.00
-eSUN PLA+ 1.75mm 3D Printing Filament (1kg)(High-toughness structural plastic),1,$40.00,$40.00
-TOTAL,,,$113.75
+Robocraze EMG Muscle Sensor Module Kit,1,24.50,24.50
+Robocraze MG996R High-Torque Digital Servos,5,5.50,27.50
+Enakshi 5V/6V 7A UBEC Voltage Regulator,1,11.75,11.75
+Raspberry Pi Pico H,1,10.00,10.00
+eSUN PLA+ 1.75mm 3D Printing Filament (1kg),1,40.00,40.00
