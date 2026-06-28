@@ -19,6 +19,10 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 ### Assembled Design 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fea72298-4da7-4a97-9010-2b1c27e1de03" />
 
+### printed hand
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e22f74d-0e42-48da-bdfe-4e5ede0553bd" />
+
+
 ## File Structure
 
 
@@ -38,7 +42,7 @@ Bionix/
 
 ## Hardware Requirements
 * Raspberry Pi Pico (RP2040/RP2350)
-* 5x Micro Servos (SG90/MG90S)
+* 5x Servos (MG996r)
 * 1x MyoWare 2.0 Muscle Sensor & Disposable Electrodes
 * 1x 5V Buck Converter (>= 3A Output) & 2S Li-ion Battery
 * 3D Printed Parts (PLA/PETG recommended)
