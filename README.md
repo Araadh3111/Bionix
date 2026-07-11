@@ -43,7 +43,7 @@ Bionix/
 
 ## Hardware Requirements
 * Raspberry Pi Pico (RP2040/RP2350)
-* 5x Servos (MG996r)
+* 5x Servos (MG90s)
 * 1x MyoWare 2.0 Muscle Sensor & Disposable Electrodes
 * 1x 5V Buck Converter (>= 3A Output) & 2S Li-ion Battery
 * 3D Printed Parts (PLA/PETG recommended)
