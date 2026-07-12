@@ -1,6 +1,6 @@
 Item,Qty,Unit Cost (USD),Total (USD),Source,Notes
-MG90S metal-gear micro servo (test pair),2,4.50,9.00,https://robu.in (exact product page),"Bench pull-test: verify one servo curls a finger against elastic return before buying the rest."
-MG90S metal-gear micro servo (reserve),3,4.50,13.50,https://robu.in (exact product page),"Ordered only after pull-test passes. One per finger."
+MG90S metal-gear micro servo (test pair),2,4.50,9.00,https://robu.in/product/towerpro-mg90s-mini-digital-360-degree-servo-2-2kg-0-08sec-13g/,"Bench pull-test: verify one servo curls a finger against elastic return before buying the rest."
+MG90S metal-gear micro servo (reserve),3,4.50,13.50,https://robu.in/product/towerpro-mg90s-mini-digital-360-degree-servo-2-2kg-0-08sec-13g/,"Ordered only after pull-test passes. One per finger."
 MyoWare EMG sensor kit,1,24.50,24.50,https://robocraze.com (exact product page),"Forearm muscle activation = grip intent signal. Already on hand."
 Raspberry Pi Pico H,1,10.00,10.00,https://robu.in (exact product page),"Maps EMG intent to servo positions. Already on hand."
 5V/6V 7A UBEC regulator,1,11.75,11.75,https://robu.in (exact product page),"Servo power rail; prevents brownout under stall. Already on hand."
