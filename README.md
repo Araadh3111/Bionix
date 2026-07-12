@@ -22,6 +22,9 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 
 ### printed hand
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e22f74d-0e42-48da-bdfe-4e5ede0553bd" />
+### Electronics + hand
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/993d41e9-8fb0-4e8b-a119-a46b5d7c07a0" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e01c0791-0fb3-4056-bf7b-dfd341bb28f0" />
 
 
 ## File Structure
