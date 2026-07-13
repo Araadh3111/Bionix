@@ -13,8 +13,9 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 
 ## System Architecture & Diagrams
 
-### Circuit Design
-<img width="1212" height="1078" alt="Screenshot 2026-06-17 201810" src="https://github.com/user-attachments/assets/5a327cd5-b3e8-4db6-a252-3d87760bdd63" />
+### Circuit Design and WIRING diagram
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/11334e5b-c518-4eba-9e9c-8cd105ff749b" />
+
 
 ### Assembled Design 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fefcca97-bd95-447b-83e1-5210f08ea59a" />
