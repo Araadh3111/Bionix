@@ -27,6 +27,8 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/993d41e9-8fb0-4e8b-a119-a46b5d7c07a0" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e01c0791-0fb3-4056-bf7b-dfd341bb28f0" />
 
+# How do I plan on reading Neural signals from the brain
+its pretty simple actually, my brain wants to close my hand --> it fires a nerve signal to forearm muscle, which in turn produces a tiny electrical voltage on our skin, electrode pads on our forearm pick up that voltage, the voltage is now pretty weak for the raspberry to read it so the myoware board amplifies it and smooths it into a clean signal. the signal then goes into picos adc pin. then the pico maps out the no to servo position in turn fingers curl
 
 ## File Structure
 
