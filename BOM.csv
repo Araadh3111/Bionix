@@ -1,6 +1,6 @@
 Item,Qty,Unit Cost (USD),Total (USD),Source,Notes
 MG90S metal-gear servo (test pair),2,2.98,5.96,https://zbotic.in/product/mg90s-9g-servo-metal-gear-180-degrees-superior-quality/,"Rs.256 verified. 180-deg positional. Pull-test before buying reserve."
-MG90S metal-gear servo (reserve),3,2.98,8.94,https://zbotic.in/product/mg90s-9g-servo-metal-gear-180-degrees-superior-quality/,"Ordered after pull-test passes."
+MG90S metal-gear servo (reserve),3,2.98,8.945,https://zbotic.in/product/mg90s-9g-servo-metal-gear-180-degrees-superior-quality/,"Ordered after pull-test passes."
 Robocraze EMG muscle sensor kit,1,23.60,23.60,https://www.amazon.in/Robocraze-Muscle-Signal-Sensor-Professional/dp/B073B8P5J9,"Rs.2029. Grip intent signal. Already on hand."
 ECG/EMG electrode pads (100 pack),1,6.78,6.78,https://www.amazon.in/TenTabs-Disposable-Electrodes-Adhesive-Monitoring/dp/B0FRG1DRJ1,"Rs.583. Consumable - fresh pads every EMG session."
 Raspberry Pi Pico 2,1,5.80,5.80,https://robu.in/product/raspberry-pi-pico-2/,"~Rs.500 - confirm at checkout. New purchase; existing Pico H committed to Vega. RP2350 headroom for EMG processing."
