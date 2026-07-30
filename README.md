@@ -13,7 +13,7 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 
 ## System Architecture & Diagrams
 
-### Build progress (signals)
+### Build progress (signals + enveloping signals)
 <img width="3024" height="4032" alt="fds" src="https://github.com/user-attachments/assets/67f06b4f-8f38-424f-9499-62ece2826a74" />
 
 
