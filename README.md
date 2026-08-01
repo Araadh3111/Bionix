@@ -13,11 +13,22 @@ Bionix translates raw electromyography (EMG) signals from the user's forearm int
 
 ## System Architecture & Diagrams
 
-### Circuit Design
-<img width="1212" height="1078" alt="Screenshot 2026-06-17 201810" src="https://github.com/user-attachments/assets/5a327cd5-b3e8-4db6-a252-3d87760bdd63" />
+### Circuit Design and WIRING diagram
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/11334e5b-c518-4eba-9e9c-8cd105ff749b" />
+
 
 ### Assembled Design 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fea72298-4da7-4a97-9010-2b1c27e1de03" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fefcca97-bd95-447b-83e1-5210f08ea59a" />
+
+
+### printed hand
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e22f74d-0e42-48da-bdfe-4e5ede0553bd" />
+### Electronics + hand
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/993d41e9-8fb0-4e8b-a119-a46b5d7c07a0" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e01c0791-0fb3-4056-bf7b-dfd341bb28f0" />
+
+# How do I plan on reading Neural signals from the brain
+its pretty simple actually, my brain wants to close my hand --> it fires a nerve signal to forearm muscle, which in turn produces a tiny electrical voltage on our skin, electrode pads on our forearm pick up that voltage, the voltage is now pretty weak for the raspberry to read it so the myoware board amplifies it and smooths it into a clean signal. the signal then goes into picos adc pin. then the pico maps out the no to servo position in turn fingers curl
 
 ## File Structure
 
@@ -38,7 +49,7 @@ Bionix/
 
 ## Hardware Requirements
 * Raspberry Pi Pico (RP2040/RP2350)
-* 5x Micro Servos (SG90/MG90S)
+* 5x Servos (MG90s)
 * 1x MyoWare 2.0 Muscle Sensor & Disposable Electrodes
 * 1x 5V Buck Converter (>= 3A Output) & 2S Li-ion Battery
 * 3D Printed Parts (PLA/PETG recommended)
