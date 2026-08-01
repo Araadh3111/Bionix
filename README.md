@@ -1,4 +1,7 @@
 # Bionix 
+## video of the servo opening and closing 
+https://www.youtube.com/watch?v=JQe1FLX11hM
+
 
 An open-source, EMG-controlled bionic hand engineered for the IRIS National Science Fair. Bionix features a custom tendon-driven mechanical design, frictionless brass-rod joints, and an antagonistic elastic return system.
 
